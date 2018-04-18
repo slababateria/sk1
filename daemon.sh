@@ -73,5 +73,5 @@ then
         echo "BŁĄÐ: Brak pidfile!"
     fi
 else
-    echo "BŁĄÐ:Nierozpoznana komenda!"
+    echo "BŁĄÐ: Nierozpoznana komenda!"
 fi
